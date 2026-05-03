@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ee0e118f3f96476c9e1422179385ad58" Name="Diagram1">
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Article" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Contact" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Customer" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Invoince" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.InvoinceDetail" Width="1.5" PointX="4.75" PointY="4.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Member" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Product" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.ProductCategory" Width="1.5" PointX="6.75" PointY="5.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Role" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="NguyenHoangDuyModel.Slide" Width="1.5" PointX="8.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
